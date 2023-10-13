@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/BACKGROUND/BACK.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/BACKGROUND/BACK1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BACK SAMEN.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BACK TELER.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BAK SAMEN (zonder) TEL.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BLUE 1/blue1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BLUE 1/blue1Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BLUE 2/blue2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BLUE 2/blue2Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BLUE 3/blue.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/BLUE 3/blue3Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/DARK BLUE 1/darkBlue1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/DARK BLUE 1/darkBlue1Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/GREEN 1/green1 .png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/GREEN 1/green1Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/GREEN 2/green2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/GREEN 2/green2Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/GREEN 3/gree3Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/GREEN 3/green3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/ORANGE 1/orange1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/ORANGE 1/orange1Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/PURPLE 1/purple1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/PURPLE 1/purple1Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/PURPLE 2/puerple2Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/PURPLE 2/purple2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/PURPLE 3/purple3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/PURPLE 3/purple3Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/RED 1/red1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/RED 1/red1Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/RED 2/red.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/RED 2/red2Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/RED 3/red3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/BACK/RED 3/red3Tel.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/CUP/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/CUP/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/CUP/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/CUP/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/CUP/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/CUP/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/CUP/cup1@3x.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ME/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ME/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ME/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ME/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ME/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ME/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ME/me1@3x.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/MISSIONS/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/MISSIONS/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/MISSIONS/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/MISSIONS/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/MISSIONS/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/MISSIONS/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/MISSIONS/mission1@3x.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/0 orange.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/LUCK copy.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/ORANGE/luck1@3x.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/PLAY/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/PLAY/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/PLAY/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/PLAY/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/PLAY/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/PLAY/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SETTINGS/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SETTINGS/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SETTINGS/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SETTINGS/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SETTINGS/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SETTINGS/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SHOP/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SHOP/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SHOP/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SHOP/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SHOP/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SHOP/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Balloons/FRONT/SHOP/shop1@3x.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/CLOUDS/AMP 1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/CLOUDS/AMP0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/CLOUDS/amp1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/CLOUDS/AMP2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/6.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/FLAG/7.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/0.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/APART/GAS.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/APART/KAR.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/APART/LITL WIEL.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/APART/SCHADUW.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/APART/WIEL.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 10.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 11.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 12.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 13.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 14.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 15.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 16.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 17.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 18.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 19.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 20.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 21.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 22.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 23.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 24.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 25.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 5.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 6.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 7.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 8.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/GAs/Frame 9.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/KARUSEL SAMEN.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/KLOR/klor.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/KLOR/klor1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/KLOR/KLOR3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/KLOR/KLOR4 co= X-623,00 Y-757,00.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/KLOR/KLOR4.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/blauw beneden.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/blauw boven.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/geel beneden.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/GEEL boven.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/groen beneden.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/groen boven.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/rood beneden.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/NSTARANNER/rood boven.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/VOT/VOT 1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/VOT/VOT 2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Karusel/VOT/VOT 3 (last).png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Puchyland-middel/Puchyland-middel 1.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Puchyland-middel/Puchyland-middel 2.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Puchyland-middel/Puchyland-middel 3.png</File>
+    <File>C:/Users/taron/OneDrive/STUDY/Taron/HOWEST/Platform Development 1/Platform Development 1/MyGames/poochy_new/poochy_new/Content/graphics/Menu/Puchyland-middel/Puchyland-middel-4.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
