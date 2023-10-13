@@ -1,4 +1,5 @@
 ﻿using Microsoft.Xna.Framework;
+using Microsoft.Xna.Framework.Content;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
@@ -7,9 +8,10 @@ namespace poochy_new
 {
     internal class Hoofdmenu
     {
-        // Lijst van menu-items (voor dit voorbeeld zijn het gewoon strings, maar je kunt een aangepaste klasse maken voor menu-items)
+        // Lijst van menu-items
         private List<string> menuItems;
         private int selectedItemIndex; // Index van het geselecteerde menu-item
+        private SpriteFont font; // Font voor het tekenen van de menu-items
 
         public Hoofdmenu()
         {
@@ -20,6 +22,12 @@ namespace poochy_new
                 "Exit"
             };
             selectedItemIndex = 0;
+        }
+
+        // Laad de benodigde content (zoals fonts)
+        public void LoadContent(ContentManager content)
+        {
+            font = content.Load<SpriteFont>("naamVanJouwFont"); // Vervang "naamVanJouwFont" door de naam van jouw SpriteFont bestand in de Content map
         }
 
         // Update de menu logica (bijv. navigatie tussen items)
@@ -41,13 +49,13 @@ namespace poochy_new
         // Teken het menu op het scherm
         public void Draw(SpriteBatch spriteBatch)
         {
-            // Voor dit voorbeeld tekenen we gewoon de menu-items als tekst op het scherm
-            // Je kunt hier aangepaste graphics en animaties toevoegen
+            // Teken de menu-items als tekst op het scherm
             for (int i = 0; i < menuItems.Count; i++)
             {
                 Color color = (i == selectedItemIndex) ? Color.Yellow : Color.White; // Markeer het geselecteerde item
-                spriteBatch.DrawString(/* jouw SpriteFont */, menuItems[i], new Vector2(100, 100 + i * 40), color);
+                spriteBatch.DrawString(font, menuItems[i], new Vector2(100, 100 + i * 40), color);
             }
         }
     }
 }
+
